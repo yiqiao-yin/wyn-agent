@@ -144,6 +144,11 @@ class ChatBot:
                         print(output)
                     else:
                         print("Failed to execute the script.")
-            prompt = input("🧑 Human: ")
 
             print("NOTE: Enter 'EXIT' if you want to quit the program.")
+            print()
+            print()
+            print()
+
+            prompt = input("🧑 Human: ")
+
