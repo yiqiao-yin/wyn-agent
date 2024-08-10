@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "wyn-agent"
-version = "0.1.4"
+version = "0.1.5"
 description = "Welcome to the **WYN-Agent** package! This Python package provides a simple yet powerful interface to create AI chatbots using the Mistral AI platform."
 authors = ["Yiqiao Yin <eagle0504@gmail.com>"]
 readme = "README.md"
