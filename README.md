@@ -2,6 +2,8 @@
 
 Welcome to the **WYN-Agent** package! This Python package provides a simple yet powerful interface to create AI chatbots using the Mistral AI platform. It includes functionalities to handle conversation history, isolate and execute Python code from chatbot responses, and seamlessly interact with Mistral's AI agents.
 
+Repo: [https://github.com/yiqiao-yin/wyn-agent](https://github.com/yiqiao-yin/wyn-agent)
+
 ## 📦 Installation
 
 Before using the package, make sure you have Python installed. You can install the package via `pip`:
